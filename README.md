@@ -41,5 +41,9 @@ This project is a Python-based scraper that extracts information from YouTube vi
     ```bash
     python3 youtubeDataScrape.py
     ```
-4. Output in terminal:
+## Output
+
+1. Output in terminal:
     ![YouTube Scraper Screenshot](images/yt-output.png)
+
+2. Generated JSON File (youtube_video_data_your_search_text)
