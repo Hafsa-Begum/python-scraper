@@ -1,0 +1,138 @@
+[
+    {
+        "no": 1,
+        "type": "Regular",
+        "title": "Ken Thompson: Why did we create Golang?",
+        "views": "77K views",
+        "channel": "Mastery Learning",
+        "link": "https://www.youtube.com/watch?v=c-P5R0aMylM&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 2,
+        "type": "Regular",
+        "title": "Go in 100 Seconds",
+        "views": "1.8M views",
+        "channel": "Fireship",
+        "link": "https://www.youtube.com/watch?v=446E-r0rXHI&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 3,
+        "type": "Regular",
+        "title": "Go Programming – Golang Course with Bonus Projects",
+        "views": "938K views",
+        "channel": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/watch?v=un6ZyFkqFKo&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 4,
+        "type": "Regular",
+        "title": "Learn GO Fast: Full Tutorial",
+        "views": "545K views",
+        "channel": "Alex Mux",
+        "link": "https://www.youtube.com/watch?v=8uiZC0l4Ajw&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 5,
+        "type": "Regular",
+        "title": "🚀 Learn Go Programming - Golang Full Tutorial for Beginners",
+        "views": "190 views",
+        "channel": " Code Journey Academy",
+        "link": "https://www.youtube.com/watch?v=2vPTb__ZzFU&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 6,
+        "type": "Regular",
+        "title": "Golang Tutorial for Beginners | Full Go Course",
+        "views": "2M views",
+        "channel": "TechWorld with Nana",
+        "link": "https://www.youtube.com/watch?v=yyUHQIec83I&t=167s&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 7,
+        "type": "Regular",
+        "title": "Learn Go Programming - Golang Tutorial for Beginners",
+        "views": "2.5M views",
+        "channel": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/watch?v=YS4e4q9oBaU&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 8,
+        "type": "Regular",
+        "title": "Why I’m Switching To Go in 2024",
+        "views": "103K views",
+        "channel": "Awesome",
+        "link": "https://www.youtube.com/watch?v=TGz4Osgk7AQ&t=40s&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 9,
+        "type": "Regular",
+        "title": "Five of my favorite project ideas to learn Go.",
+        "views": "104K views",
+        "channel": "Dreams of Code",
+        "link": "https://www.youtube.com/watch?v=gXmznGEW9vo&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 10,
+        "type": "Regular",
+        "title": "The Fascinating History of Go",
+        "views": "48K views",
+        "channel": "Awesome",
+        "link": "https://www.youtube.com/watch?v=mSwvS83O9wc&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 11,
+        "type": "Regular",
+        "title": "Should you learn Go in 2023?",
+        "views": "189K views",
+        "channel": "Dreams of Code",
+        "link": "https://www.youtube.com/watch?v=U2PpMZ7hWpg&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 12,
+        "type": "Regular",
+        "title": "Go Language কেন এতো জনপ্রিয়? সেই সাথে আমার চ্যানেলের নাম কেনো \"Learn with Sumit\" সেটার ব্যাখ্যা !",
+        "views": "25K views",
+        "channel": "Learn with Sumit - LWS - Bangladesh",
+        "link": "https://www.youtube.com/watch?v=ZJ3n3NGsd24&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 13,
+        "type": "Regular",
+        "title": "C Language Tutorial for Beginners (with Notes & Practice Questions)",
+        "views": "38M views",
+        "channel": "Apna College",
+        "link": "https://www.youtube.com/watch?v=irqbmMNs2Bo&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 14,
+        "type": "Regular",
+        "title": "SQL - Complete Course in 3 Hours | SQL One Shot using MySQL",
+        "views": "10M views",
+        "channel": "Apna College",
+        "link": "https://www.youtube.com/watch?v=hlGoQC332VM&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 15,
+        "type": "Regular",
+        "title": "Java Full Course for Beginners",
+        "views": "11M views",
+        "channel": "Programming with Mosh",
+        "link": "https://www.youtube.com/watch?v=eIrMbAQSU34&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 16,
+        "type": "Regular",
+        "title": "Why I Use Golang In 2024",
+        "views": "375K views",
+        "channel": "ThePrimeTime",
+        "link": "https://www.youtube.com/watch?v=6gwF8mG3UUY&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    },
+    {
+        "no": 17,
+        "type": "Regular",
+        "title": "Go is Dying - Long Live Python? WUT | Prime Reacts",
+        "views": "270K views",
+        "channel": "ThePrimeTime",
+        "link": "https://www.youtube.com/watch?v=onDdWlK_ZsA&pp=ygUOZ28gcHJvZ3JhbW1pbmc%3D"
+    }
+]

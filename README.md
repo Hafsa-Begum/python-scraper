@@ -30,10 +30,16 @@ This project is a Python-based scraper that extracts information from YouTube vi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/youtube-scraper.git
+   git clone https://github.com/Hafsa-Begum/youtube-scraper.git
    cd youtube-scraper
    ```
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
+3. Run code in terminal:
+    ```bash
+    python3 youtubeDataScrape.py
+    ```
+4. Output in terminal:
+    ![YouTube Scraper Screenshot](images/yt-output.png)
