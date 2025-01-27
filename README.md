@@ -6,11 +6,11 @@ This project is a Python-based scraper that extracts information from YouTube vi
 
 - Scrapes both **regular YouTube videos** and **YouTube Shorts**.
 - Extracts metadata such as:
+  - **Type**
   - **Title**
-  - **Likes**
   - **Views**
-  - **Upload Date**
-  - **Video Duration**
+  - **Channel**
+  - **Video Links**
 - Handles dynamic content loading using Selenium.
 - Automatically detects and processes Shorts videos differently from regular videos.
 - Saves collected data to a JSON file for easy use.
