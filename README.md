@@ -10,6 +10,7 @@ This project is a Python-based scraper that extracts information from YouTube vi
   - **Title**
   - **Views**
   - **Channel**
+  - **Subscribers**
   - **Video Links**
 - Handles dynamic content loading using Selenium.
 - Automatically detects and processes Shorts videos differently from regular videos.

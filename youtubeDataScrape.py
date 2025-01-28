@@ -82,12 +82,19 @@ def scrape_youtube_videos(search_query):
                     channel = "N/A"
                     print(f"Could not find channel for {link}: {e}")
 
+                try:
+                    subscriber = driver.find_element(By.CSS_SELECTOR, "yt-formatted-string#owner-sub-count").text
+                except Exception as e:
+                    subscriber = "N/A"
+                    print(f"Could not find channel for {link}: {e}")
+
                 video_data.append({
                     "no": index,
                     "type": "Regular",
                     "title": title,
                     "views": views,
                     "channel": channel,
+                    "subscriber": subscriber,
                     "link": link
                 })
 
